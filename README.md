@@ -9,9 +9,8 @@
 <br/> * * * * *  command_to_execute
 
 
-###### To understand how collisions are resolved between day of month and day of week, refer this -> 
+## To understand how collisions are resolved between day of month and day of week, refer this -> 
 https://stackoverflow.com/questions/34357126/why-crontab-uses-or-when-both-day-of-month-and-day-of-week-specified
-
 https://crontab.guru/
 
 ###### Tutorials - 
@@ -21,7 +20,7 @@ https://www.youtube.com/watch?v=QZJ1drMQz1A
 ###### On WSL run this(set in root bashrc as well) to start cron services ->
 sudo service cron start
 
- usage:  crontab [-u user] file
+usage:  crontab [-u user] file
         crontab [ -u user ] [ -i ] { -e | -l | -r }
                 (default operation is replace, per 1003.2)
         -e      (edit user's crontab)
