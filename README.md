@@ -3,11 +3,10 @@
 │ │ ┌───────────── day of month (1 - 31) <br/>
 │ │ │ ┌───────────── month (1 - 12) <br/>
 │ │ │ │ ┌───────────── day of week (0 - 6) (Sunday to Saturday; <br/>
-│ │ │ │ │                                       7 is also Sunday on some systems) <br/>
+│ │ │ │ │                                      7 is also Sunday on some systems) <br/>
 │ │ │ │ │<br/>
 │ │ │ │ │<br/>
-* * * * *  command_to_execute
-
+* * * * * <command>
 
 ## To understand how collisions are resolved between day of month and day of week, refer this -> 
 https://stackoverflow.com/questions/34357126/why-crontab-uses-or-when-both-day-of-month-and-day-of-week-specified
