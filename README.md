@@ -1,8 +1,8 @@
-┌───────────── minute (0 - 59) <br\> 
-│ ┌───────────── hour (0 - 23) <br\>
-│ │ ┌───────────── day of month (1 - 31) <br\>
-│ │ │ ┌───────────── month (1 - 12) <br\>
-│ │ │ │ ┌───────────── day of week (0 - 6) (Sunday to Saturday; <br\>
+┌───────────── minute (0 - 59) <br/> 
+│ ┌───────────── hour (0 - 23) <br/>
+│ │ ┌───────────── day of month (1 - 31) <br/>
+│ │ │ ┌───────────── month (1 - 12) <br/>
+│ │ │ │ ┌───────────── day of week (0 - 6) (Sunday to Saturday; <br/>
 │ │ │ │ │                                       7 is also Sunday on some systems)
 │ │ │ │ │
 │ │ │ │ │
