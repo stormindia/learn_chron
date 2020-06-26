@@ -3,9 +3,9 @@
 │ │ ┌───────────── day of month (1 - 31) <br/>
 │ │ │ ┌───────────── month (1 - 12) <br/>
 │ │ │ │ ┌───────────── day of week (0 - 6) (Sunday to Saturday; <br/>
-│ │ │ │ │                                       7 is also Sunday on some systems)
-│ │ │ │ │
-│ │ │ │ │
+│ │ │ │ │                                       7 is also Sunday on some systems) <br/>
+│ │ │ │ │<br/>
+│ │ │ │ │<br/>
 * * * * *  command_to_execute
 
 
