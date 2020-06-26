@@ -10,10 +10,9 @@
 
 
 ###### To understand how collisions are resolved between day of month and day of week, refer this -> 
- https://stackoverflow.com/questions/34357126/why-crontab-uses-or-when-both-day-of-month-and-day-of-week-specified
+https://stackoverflow.com/questions/34357126/why-crontab-uses-or-when-both-day-of-month-and-day-of-week-specified
 
-
- https://crontab.guru/
+https://crontab.guru/
 
 ###### Tutorials - 
 https://www.youtube.com/watch?v=QZJ1drMQz1A
